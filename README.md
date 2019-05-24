@@ -1,4 +1,4 @@
-# **ds-for-telco**
+# **ds-for-telco on GitHub**
 
 This project demonstrates how to use the common utilized demo, DS for telco, to highlight the experiments and models API features in CDSW. 
 
