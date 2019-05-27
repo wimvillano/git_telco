@@ -31,3 +31,5 @@ For the interaction session, it was necessary to create a user database to store
     ```spark.sql("create database bmoran")```
 
 New Row
+Row 2
+
