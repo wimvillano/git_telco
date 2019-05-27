@@ -18,23 +18,3 @@ This will return FALSE for the churn predictin. To have a customer churn predict
   "feature": "yes, 41, 173.1, 85, 29.43, 203.9, 107, 17.33, 122.2, 78, 5.5, 14.6"
 }
 
-
-### Historic corrections:
-It was necessary to set the environment variable manually for the project; this has now been fixed. If however, you're forking the project, your engine may not have this done.
-
-PYSPARK_PYTHON=/usr/bin/python
-
-After having run a successful Experiment, click on the successful run and to click to add the telco_rf.tar output to the project.
-
-For the interaction session, it was necessary to create a user database to store the metrics, but this is now fixed.
-
-    ```spark.sql("create database bmoran")```
-
-New Row
-Row 2
-New
-New22
-New01
-New02
-New03
-
