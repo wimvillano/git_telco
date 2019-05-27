@@ -30,3 +30,4 @@ For the interaction session, it was necessary to create a user database to store
 
     ```spark.sql("create database bmoran")```
 
+Add Text WV
